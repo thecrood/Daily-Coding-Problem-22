@@ -1,4 +1,4 @@
-# Daily-Coading-Problem-22
+# Daily-Coding-Problem-22
 Daily Coading Problem Challenge
 
 This problem was asked by Microsoft.
